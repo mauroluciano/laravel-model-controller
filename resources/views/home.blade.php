@@ -18,7 +18,7 @@
     </div>
         
     @empty
-        no Comics
+        no movies
     @endforelse
 </div>
 
